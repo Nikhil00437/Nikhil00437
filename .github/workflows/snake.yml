@@ -35,7 +35,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: 🐍 Generate snake SVGs
-        uses: Platane/snk@v3
+        uses: Platane/snk@v3.5.0
         with:
           github_user_name: Nikhil00437
           # Three themes so light + dark mode visitors both get a snake
