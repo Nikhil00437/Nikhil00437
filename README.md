@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://github.com/Nikhil00437"><img src="https://img.shields.io/badge/GitHub-Nikhil00437-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://nikhil00437.github.io/slime-ai/"><img src="https://img.shields.io/badge/Live_Demo-slime--ai-8957E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+<a href="https://slime-ai-rho.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-slime--ai-8957E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
 <img src="https://komarev.com/ghpvc/?username=Nikhil00437&label=Profile+Views&color=8957E5&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/badge/Status-Building_on_device_AI-00d4aa?style=for-the-badge&logo=robotframework&logoColor=white" alt="Status"/>
 
@@ -146,7 +146,7 @@ I design tools that *think, remember, and improve themselves* — from a desktop
 ### 🟣 [slime-ai](https://github.com/Nikhil00437/slime-ai)
 **Local-first AI agent orchestration workspace** — my most ambitious build.
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-nikhil00437.github.io-8957E5?style=flat-square)](https://nikhil00437.github.io/slime-ai/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-nikhil00437.github.io-8957E5?style=flat-square)](https://slime-ai-rho.vercel.app/)
 [![TypeScript](https://img.shields.io/badge/95%25-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Backend-Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![Stars](https://img.shields.io/badge/⭐-1-yellow?style=flat-square)]()
