@@ -146,7 +146,7 @@ I design tools that *think, remember, and improve themselves* — from a desktop
 ### 🟣 [slime-ai](https://github.com/Nikhil00437/slime-ai)
 **Local-first AI agent orchestration workspace** — my most ambitious build.
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-nikhil00437.github.io-8957E5?style=flat-square)](https://slime-ai-rho.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-8957E5?style=flat-square)](https://slime-ai-rho.vercel.app/)
 [![TypeScript](https://img.shields.io/badge/95%25-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Backend-Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![Stars](https://img.shields.io/badge/⭐-1-yellow?style=flat-square)]()
